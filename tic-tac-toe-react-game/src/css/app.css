@@ -9,7 +9,7 @@
 	flex-direction: column;
 	gap: 4vh;
 	backdrop-filter: blur(10px);
-	background-color: #2B2D42;
+	background-color: #1b1b1b;
 }
 
 .winner {
